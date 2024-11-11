@@ -12,18 +12,7 @@ Features
 
 ## Project Structure
 
-The project is organized as follows:
-Custom Program/
-├── models/
-│   ├── action_record.py        # Defines models and functions for action records
-│   ├── daily_progress.py       # Handles daily progress tracking
-│   └── user_info.py            # Manages user information models
-├── services/
-│   ├── action_service.py       # Service functions related to actions
-│   ├── level_service.py        # Service functions related to user levels
-│   └── user_service.py         # Service functions related to user data management
-├── main.py                     # Main entry point of the program
-└── README.md                   # Project documentation
+<img width="667" alt="image" src="https://github.com/user-attachments/assets/669d9e3a-ae3b-4b7e-b061-76686d8bcc94">
 
 ### Files Overview
 
